@@ -12,6 +12,15 @@ title:: Why?
   * I like foam, but the possibility of making slides from logseq may be a killer feature.
   * It needs making the nodes bigger. Not a problem, just a "gotcha".
   * Nice to have in any case.
+  * [test](https://www.reddit.com/r/logseq/comments/twwo30/embed_links_and_presentation_in_github_pages/)
+- {{cards https://www.reddit.com/r/logseq/comments/twwo30/embed_links_and_presentation_in_github_pages/}}
+- {{cloze https://www.reddit.com/r/logseq/comments/twwo30/embed_links_and_presentation_in_github_pages/}}
+-
+- ![image](https://www.reddit.com/r/logseq/comments/twwo30/embed_links_and_presentation_in_github_pages/)
+-
+-
+-
+-
 - # Slides
   * This is good, seriously.
   * It is terrible, but it is good.
