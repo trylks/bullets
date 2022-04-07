@@ -4,9 +4,25 @@
 		- d
 		- e
 	- f
+	  id:: 624ee374-1026-4ef9-ad29-82b6e3fb122b
 		- g
 			- h
 	- i
 - j
 - k
--
+- TIL: you can in fact embed arbitrary html:
+	- @@html: <iframe id="reddit-embed" src="https://www.redditmedia.com/r/logseq/comments/twwo30/embed_links_and_presentation_in_github_pages/i3i8z4x/?depth=2&amp;showmore=false&amp;embed=true&amp;showtitle=true&amp;context=1&amp;showmedia=false" sandbox="allow-scripts allow-same-origin allow-popups" style="border: none;" scrolling="no" width="640" height="500"></iframe>@@
+	- {{embed ((624ee374-1026-4ef9-ad29-82b6e3fb122b))}}
+	-
+	-
+	-
+	- @@html: (html [:p "hi"])@@
+	- [google](https://www.google.com)
+	- https://www.google.com/
+	- {{bookmark https://www.google.com/}}
+	-
+	-
+	-
+	-
+	-
+	-
