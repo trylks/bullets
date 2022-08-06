@@ -1,3 +1,6 @@
 - Start with [[Why?]]
 - [[Test]]
 - [[Notes to self]]
+- [[Notes about logseq]]
+-
+-
