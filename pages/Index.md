@@ -2,5 +2,5 @@
 - [[Test]]
 - [[Notes to self]]
 - [[Notes about logseq]]
--
+- [[Points to expand on]]
 -

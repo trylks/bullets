@@ -1,0 +1,11 @@
+- Make an AI that can understand my one emoji-based response and elaborate on it based on the context
+	- https://twitter.com/trylks/status/1537045002676756481
+	- Then make the one emoji unnecessary
+- Also this
+	- https://twitter.com/trylks/status/1538617113291673602
+	- https://twitter.com/trylks/status/1556060271709487110
+- Old future
+	- https://twitter.com/trylks/status/1401232211395989506
+- As the attention economy monetized entertainment, only the poor got educated
+	- https://twitter.com/trylks/status/1525890907555483652
+	- https://mobile.twitter.com/trylks/status/1556651161301782529
