@@ -1,247 +1,250 @@
 - Irrationality
-	- https://twitter.com/trylks/status/1550144510436511745
+	- {{tweet https://twitter.com/trylks/status/1550144510436511745}}
 - Boot licking dynamic
-	- https://twitter.com/kamilkazani/status/1557767984554426368
+	- {{tweet https://twitter.com/kamilkazani/status/1557767984554426368}}
 	- Do what you hate, for money
-		- https://twitter.com/trylks/status/1531579370741149701
-		- https://twitter.com/CodeWisdom/status/1531304579291394050
-		- https://twitter.com/naval/status/1132317047671611394
-		- https://twitter.com/trylks/status/1515771811606192132
+		- {{tweet https://twitter.com/trylks/status/1531579370741149701}}
+		- {{tweet https://twitter.com/CodeWisdom/status/1531304579291394050}}
+		- {{tweet https://twitter.com/naval/status/1132317047671611394}}
+		- {{tweet https://twitter.com/trylks/status/1515771811606192132}}
 - Lemon dynamic
-	- https://twitter.com/wardleymaps/status/1546916607783575556
+	- {{tweet https://twitter.com/wardleymaps/status/1546916607783575556}}
 - Long trends seem to be "fake", they are not necessarily fake
 	- When the Dark Ages were getting darker, they were really getting darker
 	- Consider Illustration and Reinassance just the same
-	- https://twitter.com/paulisci/status/1549527748950892544
+	- {{tweet https://twitter.com/paulisci/status/1549527748950892544}}
 	- https://xkcd.com/1227/
-	- https://twitter.com/trylks/status/1552804111841722370
-	- https://twitter.com/trylks/status/1547621518024122368
+	- {{tweet https://twitter.com/trylks/status/1552804111841722370}}
+	- {{tweet https://twitter.com/trylks/status/1547621518024122368}}
 - Prompts as a way to get better answers
-	- https://twitter.com/visakanv/status/1549098685694623744
+	- {{tweet https://twitter.com/visakanv/status/1549098685694623744}}
 	- Also: questions to ask: Point of maximum leverage, commandments (incl. need), moat, unfair advantage, ikigai
-		- https://twitter.com/trylks/status/1538238026626830336
-		- https://twitter.com/trylks/status/1473044182461788173
-		- https://twitter.com/trylks/status/1529200136462770183
-		- https://twitter.com/trylks/status/1527439961389162507
-		- https://twitter.com/trylks/status/1517873717426147328
-		- https://twitter.com/trylks/status/1510694311586934792
+		- {{tweet https://twitter.com/trylks/status/1538238026626830336}}
+		- {{tweet https://twitter.com/trylks/status/1473044182461788173}}
+		- {{tweet https://twitter.com/trylks/status/1529200136462770183}}
+		- {{tweet https://twitter.com/trylks/status/1527439961389162507}}
+		- {{tweet https://twitter.com/trylks/status/1517873717426147328}}
+		- {{tweet https://twitter.com/trylks/status/1510694311586934792}}
 - Direction
 	- $W = Fs\cos\theta$
 	- 🧭
-	- https://twitter.com/orangebook_/status/1529334540342558720
-	- https://twitter.com/ShaneAParrish/status/1525437266469875712
-	- https://twitter.com/trylks/status/1557255058479321093
+	- {{tweet https://twitter.com/orangebook_/status/1529334540342558720}}
+	- {{tweet https://twitter.com/ShaneAParrish/status/1525437266469875712}}
+	- {{tweet https://twitter.com/trylks/status/1557255058479321093}}
 	- Walking beside the Moon
-		- https://twitter.com/trylks/status/1539185759248433153
-		- https://twitter.com/trylks/status/1538065050178572288
+		- {{tweet https://twitter.com/trylks/status/1539185759248433153}}
+		- {{tweet https://twitter.com/trylks/status/1538065050178572288}}
 - Be clear
-	- https://twitter.com/trylks/status/1558025622403907584
+	- {{tweet https://twitter.com/trylks/status/1558025622403907584}}
 - Self delusion by KPIs, and ignorance (related [[irrationality]])
-	- https://twitter.com/fchollet/status/1546767262152941570
-	- https://twitter.com/dagorenouf/status/1516437246488064003
-	- https://twitter.com/trylks/status/1361048607395368961
-	- https://twitter.com/trylks/status/1551929581166383104
-	- https://twitter.com/trylks/status/1541439016586952705
-	- https://twitter.com/trylks/status/1533219295425077248
-	- https://twitter.com/trylks/status/1533123499350450176
-	- https://twitter.com/trylks/status/1526149710138036225
+	- {{tweet https://twitter.com/fchollet/status/1546767262152941570}}
+	- {{tweet https://twitter.com/dagorenouf/status/1516437246488064003}}
+	- {{tweet https://twitter.com/trylks/status/1361048607395368961}}
+	- {{tweet https://twitter.com/trylks/status/1551929581166383104}}
+	- {{tweet https://twitter.com/trylks/status/1541439016586952705}}
+	- {{tweet https://twitter.com/trylks/status/1533219295425077248}}
+	- {{tweet https://twitter.com/trylks/status/1533123499350450176}}
+	- {{tweet https://twitter.com/trylks/status/1526149710138036225}}
 - Mediocrity
-	- https://twitter.com/drgurner/status/1540730965516886018
+	- {{tweet https://twitter.com/drgurner/status/1540730965516886018}}
 	- https://youtu.be/FjCkTBtz5iQ
-		- https://twitter.com/trylks/status/1536785743527428096
+		- {{tweet https://twitter.com/trylks/status/1536785743527428096}}
 	- Related [[kakonomy]], [[low cost]], [[Dunning-Kruger]], [[market for lemons]]
 		- Market fallacy
-			- https://twitter.com/trylks/status/1554551685648977926
-			- https://twitter.com/trylks/status/1552048604709363720
-			- https://twitter.com/trylks/status/1508980072430116867
+			- {{tweet https://twitter.com/trylks/status/1554551685648977926}}
+			- {{tweet https://twitter.com/trylks/status/1552048604709363720}}
+			- {{tweet https://twitter.com/trylks/status/1508980072430116867}}
 		- Hiring
-			- https://twitter.com/trylks/status/1552619460204306433
+			- {{tweet https://twitter.com/trylks/status/1552619460204306433}}
 		- You do not want to hire people that are "too good", so you ask questions that will filter both too bad and too good candidates
-			- https://twitter.com/trylks/status/1550545734121824256
-			- https://twitter.com/trylks/status/1536995937297522694
-			- https://twitter.com/trylks/status/1524819063863758848
-			- https://twitter.com/trylks/status/1524816496874110982
-	- https://twitter.com/trylks/status/1201227096988823553
-	- https://twitter.com/trylks/status/1218991445060747264
-	- https://twitter.com/trylks/status/1536995937297522694
+			- {{tweet https://twitter.com/trylks/status/1550545734121824256}}
+			- {{tweet https://twitter.com/trylks/status/1536995937297522694}}
+			- {{tweet https://twitter.com/trylks/status/1524819063863758848}}
+			- {{tweet https://twitter.com/trylks/status/1524816496874110982}}
+	- {{tweet https://twitter.com/trylks/status/1201227096988823553}}
+	- {{tweet https://twitter.com/trylks/status/1218991445060747264}}
+	- {{tweet https://twitter.com/trylks/status/1536995937297522694}}
 	- Employees get paid for being obedient, poets for sounding good
-		- https://twitter.com/auren/status/1387429609445023744
-		- https://twitter.com/trylks/status/1559136968272912385
+		- {{tweet https://twitter.com/auren/status/1387429609445023744}}
+		- {{tweet https://twitter.com/trylks/status/1559136968272912385}}
 - Related with mediocrity:
 	- Anti-intellectualism
-		- https://twitter.com/fchollet/status/1492987593738260481
-		- https://twitter.com/trylks/status/1555629441308573697
-		- https://twitter.com/trylks/status/1555625823750717441
+		- {{tweet https://twitter.com/fchollet/status/1492987593738260481}}
+		- {{tweet https://twitter.com/trylks/status/1555629441308573697}}
+		- {{tweet https://twitter.com/trylks/status/1555625823750717441}}
 		- There are two ways to end up your reading list:
 		  1. Read
 		  2. Set your books on fire
 		  until none remain
-			- https://twitter.com/trylks/status/1548628985529208833
+			- {{tweet https://twitter.com/trylks/status/1548628985529208833}}
 		- Only listen to people that achieved meaningless success
-			- https://twitter.com/trylks/status/1538873422876385280
+			- {{tweet https://twitter.com/trylks/status/1538873422876385280}}
 			- Avoid meaning, avoid thinking, that is success
 		- At the core, anti-intellectualism arises from the failures of fake intellectuals (and the inability to tell the difference, lemons)
-			- https://twitter.com/trylks/status/1550560304664379393
+			- {{tweet https://twitter.com/trylks/status/1550560304664379393}}
 			- So the answer to IYIs is "of course", and then ignore them
-				- https://twitter.com/trylks/status/1549360142893948932
+				- {{tweet https://twitter.com/trylks/status/1549360142893948932}}
 			- Make of it a habit, then say "of course" to everything, then ignore everything. Ignorance as a way of life.
 				- Information diet is ok, a hunger strike may be fatal
-					- https://twitter.com/trylks/status/1341314664752427009
+					- {{tweet https://twitter.com/trylks/status/1341314664752427009}}
 			- Develop heuristics, and be aware that they are heuristics
-				- https://twitter.com/trylks/status/1545195541193179136
+				- {{tweet https://twitter.com/trylks/status/1545195541193179136}}
 				- Logistic curves are an underutilized one
-					- https://twitter.com/trylks/status/1539190611336650752
+					- {{tweet https://twitter.com/trylks/status/1539190611336650752}}
 			- It is just luck
-				- https://twitter.com/trylks/status/1543957104351911937
-				- https://twitter.com/trylks/status/1523472075209334785
-				- https://twitter.com/trylks/status/1521958873703268353
+				- {{tweet https://twitter.com/trylks/status/1543957104351911937}}
+				- {{tweet https://twitter.com/trylks/status/1523472075209334785}}
+				- {{tweet https://twitter.com/trylks/status/1521958873703268353}}
 			- Nobody knows shit about fuck
-				- https://twitter.com/trylks/status/1538624459191554048
+				- {{tweet https://twitter.com/trylks/status/1538624459191554048}}
 		- _La barbarie del especialismo_
-			- https://twitter.com/trylks/status/1549690752468385792
-			- https://twitter.com/trylks/status/1549017476779892736
-			- https://twitter.com/trylks/status/1544740278862548998
-			- https://twitter.com/trylks/status/1544686382240743430
+			- {{tweet https://twitter.com/trylks/status/1549690752468385792}}
+			- {{tweet https://twitter.com/trylks/status/1549017476779892736}}
+			- {{tweet https://twitter.com/trylks/status/1544740278862548998}}
+			- {{tweet https://twitter.com/trylks/status/1544686382240743430}}
 		- Underthinking leads to disaster eventually. When that happens, just assert: "it was impossible to know beforehand, Captain Hindsight"
-			- https://twitter.com/trylks/status/1529393249202446341
-			- https://twitter.com/trylks/status/1546125496890654720
-			- https://twitter.com/trylks/status/1537769590217924617
+			- {{tweet https://twitter.com/trylks/status/1529393249202446341}}
+			- {{tweet https://twitter.com/trylks/status/1546125496890654720}}
+			- {{tweet https://twitter.com/trylks/status/1537769590217924617}}
 		- Overthink to become
-			- https://twitter.com/trylks/status/1532707397877305344
+			- {{tweet https://twitter.com/trylks/status/1532707397877305344}}
 	- _Language is democratic_, if enough people agree that strategy is the same as storytelling, then "strategy" will be storytelling. The true (or old) strategy will become esoteric knowledge, hard to find in search engines.
-		- https://twitter.com/trylks/status/1548631828579360768
-		- https://twitter.com/trylks/status/1545110908170534912
-		- https://twitter.com/trylks/status/1539287956627890176
-		- https://twitter.com/trylks/status/1536863095104184322
+		- {{tweet https://twitter.com/trylks/status/1548631828579360768}}
+		- {{tweet https://twitter.com/trylks/status/1545110908170534912}}
+		- {{tweet https://twitter.com/trylks/status/1539287956627890176}}
+		- {{tweet https://twitter.com/trylks/status/1536863095104184322}}
 	- Agile, randomness
-		- https://twitter.com/trylks/status/1534578002666967052
-		- https://twitter.com/trylks/status/1533447313464741888
-		- https://twitter.com/trylks/status/1517090811636326405
-		- https://twitter.com/_workchronicles/status/1499659722093432832
+		- {{tweet https://twitter.com/trylks/status/1534578002666967052}}
+		- {{tweet https://twitter.com/trylks/status/1533447313464741888}}
+		- {{tweet https://twitter.com/trylks/status/1517090811636326405}}
+		- {{tweet https://twitter.com/_workchronicles/status/1499659722093432832}}
 		- Lottery ticket:
-			- https://twitter.com/trylks/status/1558347693801590790
+			- {{tweet https://twitter.com/trylks/status/1558347693801590790}}
 		- Brute force
-			- https://twitter.com/trylks/status/1547998933263167488
-			- https://twitter.com/trylks/status/1538588474206523392
+			- {{tweet https://twitter.com/trylks/status/1547998933263167488}}
+			- {{tweet https://twitter.com/trylks/status/1538588474206523392}}
 			- It is what it is
-				- https://twitter.com/trylks/status/1545063448827924480
+				- {{tweet https://twitter.com/trylks/status/1545063448827924480}}
 			- Drink coffee, do stupid things faster, with more energy
-				- https://twitter.com/trylks/status/1540306374281797634
+				- {{tweet https://twitter.com/trylks/status/1540306374281797634}}
 				- Relentlessly
-					- https://twitter.com/Prigoose/status/1516181592691073026
+					- {{tweet https://twitter.com/Prigoose/status/1516181592691073026}}
 		- Randomness is not the entire problem. Randomness is OK if you can just apply proper directional selection after that (especially when thinking, before sunk cost settles), but the selection is delegated, e.g. to the market
-			- https://twitter.com/trylks/status/1539627045256314881
+			- {{tweet https://twitter.com/trylks/status/1539627045256314881}}
 			- And then it is someone else's problem
-				- https://twitter.com/trylks/status/1547998933263167488
+				- {{tweet https://twitter.com/trylks/status/1547998933263167488}}
 			- Have criteria, a system, principles, model, framework,... to do things
-				- https://twitter.com/trylks/status/1519680108772139008
+				- {{tweet https://twitter.com/trylks/status/1519680108772139008}}
 				- (Don't just improvise ad hoc inconsistently like children suddenly finding themselves in adult jobs)
 		- Do you even have a proper framework to collect informative observations or will you be collecting misleading observations?
-			- https://twitter.com/trylks/status/1547979821065506824
-			- https://twitter.com/trylks/status/1547975213987508232
+			- {{tweet https://twitter.com/trylks/status/1547979821065506824}}
+			- {{tweet https://twitter.com/trylks/status/1547975213987508232}}
 			- Go and see it
-				- https://twitter.com/trylks/status/1537478111448682496
-				- https://twitter.com/trylks/status/1537074282072662016
+				- {{tweet https://twitter.com/trylks/status/1537478111448682496}}
+				- {{tweet https://twitter.com/trylks/status/1537074282072662016}}
 			- The moment you accept lack of determinism, and seek for statistical significance with a margin of error in measurement, etc. you may be moving in the wrong direction
 			- Wrong operationalization, KPI selection, proxies,... will result in misleading results
 			- And still you need TDD
-				- https://twitter.com/trylks/status/1539036435797483520
+				- {{tweet https://twitter.com/trylks/status/1539036435797483520}}
 	- No thinking
-		- https://twitter.com/trylks/status/1550798186734034945
-		- https://twitter.com/trylks/status/1533375762031595520
+		- {{tweet https://twitter.com/trylks/status/1550798186734034945}}
+		- {{tweet https://twitter.com/trylks/status/1533375762031595520}}
 		- > "Intelligence is what you use when you don't know what to do" (Jean Piaget).
-		  > 
-		  > When you've seen something similar many times before, when you've been conditioned to answer in a certain way, no need for intelligence -- intuition will do. ---- [fchollet](https://twitter.com/fchollet/status/1528070351930150912)
+		  >
+		  > When you've seen something similar many times before, when you've been conditioned to answer in a certain way, no need for intelligence -- intuition will do. ---- [fchollet]({{tweet https://twitter.com/fchollet/status/1528070351930150912}})
 		- > "What the wise man does in the beginning, the fool does in the end."
 		  > — Warren Buffett
-		- https://twitter.com/trylks/status/1550150305001734145
-		- https://twitter.com/trylks/status/1548200828296605697
-		- https://twitter.com/trylks/status/1555510438691061765
+		- {{tweet https://twitter.com/trylks/status/1550150305001734145}}
+		- {{tweet https://twitter.com/trylks/status/1548200828296605697}}
+		- {{tweet https://twitter.com/trylks/status/1555510438691061765}}
 		- https://economics.stackexchange.com/a/52338/4435
-		- https://twitter.com/trylks/status/1554456903111016448
-		- https://twitter.com/trylks/status/1553274345983823872
-		- https://twitter.com/trylks/status/1483167239566204929
-		- https://twitter.com/AlanWattsDaily/status/1548408360352882688
+		- {{tweet https://twitter.com/trylks/status/1554456903111016448}}
+		- {{tweet https://twitter.com/trylks/status/1553274345983823872}}
+		- {{tweet https://twitter.com/trylks/status/1483167239566204929}}
+		- {{tweet https://twitter.com/AlanWattsDaily/status/1548408360352882688}}
 		- It is more profitable
-			- https://twitter.com/trylks/status/1548113872124383232
+			- {{tweet https://twitter.com/trylks/status/1548113872124383232}}
 		- Avoid thinking for long enough, and it will be "the way" of doing things
-			- https://twitter.com/trylks/status/1546388825819185152
-			- https://twitter.com/trylks/status/1541829097076178945
+			- {{tweet https://twitter.com/trylks/status/1546388825819185152}}
+			- {{tweet https://twitter.com/trylks/status/1541829097076178945}}
 			- Any self-reinforcing way of doing things is likely to overshoot
-				- https://twitter.com/trylks/status/1539930600165068800
+				- {{tweet https://twitter.com/trylks/status/1539930600165068800}}
 				- Matthew effect, capitalization
-					- https://twitter.com/trylks/status/1531940480279269378
-		- https://twitter.com/trylks/status/1543890569121988613
-		- https://twitter.com/trylks/status/1543883786257145857
+					- {{tweet https://twitter.com/trylks/status/1531940480279269378}}
+		- {{tweet https://twitter.com/trylks/status/1543890569121988613}}
+		- {{tweet https://twitter.com/trylks/status/1543883786257145857}}
 	- Threads:
-		- https://twitter.com/trylks/status/1508084328315633667
-		- https://twitter.com/trylks/status/1507427604160262148
+		- {{tweet https://twitter.com/trylks/status/1508084328315633667}}
+		- {{tweet https://twitter.com/trylks/status/1507427604160262148}}
 	- Lack of understanding
-		- https://twitter.com/trylks/status/1558710008812011520
+		- {{tweet https://twitter.com/trylks/status/1558710008812011520}}
 		- > “Every man takes the limits of his own field of vision for the limits of the world.” ― Arthur Schopenhauer , Studies in Pessimism: The Essays
 	- Malinvestment
-		- https://twitter.com/trylks/status/1553398266523525120
-		- https://twitter.com/trylks/status/1545249081143992320
-		- https://twitter.com/trylks/status/1537039789110837252
+		- {{tweet https://twitter.com/trylks/status/1553398266523525120}}
+		- {{tweet https://twitter.com/trylks/status/1545249081143992320}}
+		- {{tweet https://twitter.com/trylks/status/1537039789110837252}}
 	- Still better than the alternative: trying to do something hard:
-		- https://twitter.com/trylks/status/1552767039726649344
+		- {{tweet https://twitter.com/trylks/status/1552767039726649344}}
 		- So you do the easy thing until it is not easy, but now it is an entirely different game, a game of selling, not of building
-			- https://twitter.com/trylks/status/1544451006108504065
+			- {{tweet https://twitter.com/trylks/status/1544451006108504065}}
 	- The delusion of knowledge is a lot more comfortable than the awareness of ignorance, fools seek the former
-		- https://twitter.com/trylks/status/1546751215823880192
-		- https://twitter.com/trylks/status/1541755597691002881
-		- https://twitter.com/trylks/status/1534467010817556480
-		- https://twitter.com/trylks/status/1524817438415671297
+		- {{tweet https://twitter.com/trylks/status/1546751215823880192}}
+		- {{tweet https://twitter.com/trylks/status/1541755597691002881}}
+		- {{tweet https://twitter.com/trylks/status/1534467010817556480}}
+		- {{tweet https://twitter.com/trylks/status/1524817438415671297}}
 	- tyranny of the dimwit
-		- https://twitter.com/trylks/status/1543689325447204872
+		- {{tweet https://twitter.com/trylks/status/1543689325447204872}}
 	- It is profitable
-		- https://twitter.com/trylks/status/1543602018035589122
-		- https://twitter.com/trylks/status/1543537733003612160
+		- {{tweet https://twitter.com/trylks/status/1543602018035589122}}
+		- {{tweet https://twitter.com/trylks/status/1543537733003612160}}
 	- Underthinking our way to extinction
-		- https://twitter.com/lazerwalker/status/1541415378118754308
+		- {{tweet https://twitter.com/lazerwalker/status/1541415378118754308}}
 	- Million monkeys theorem
-		- https://twitter.com/trylks/status/1530343245691211777
+		- {{tweet https://twitter.com/trylks/status/1530343245691211777}}
 		- Largest market share by kakonomy
-			- https://twitter.com/trylks/status/1527779942708150275
+			- {{tweet https://twitter.com/trylks/status/1527779942708150275}}
 	- Simplicity won't be appreciated, won't be possible!
-		- https://twitter.com/Love2Code/status/1533836000463568896
+		- {{tweet https://twitter.com/Love2Code/status/1533836000463568896}}
 	- Thinking about something out of your circle of influence? Enjoy the pain
-		- https://twitter.com/trylks/status/1541523254036267014
+		- {{tweet https://twitter.com/trylks/status/1541523254036267014}}
 	- Don't think of anything harder than cross multiplication, otherwise how will you ELI5?
-		- https://twitter.com/trylks/status/1531618732837044228
+		- {{tweet https://twitter.com/trylks/status/1531618732837044228}}
 - Thinking as a service may not cut it
-	- https://twitter.com/trylks/status/1516791091772727309
+	- {{tweet https://twitter.com/trylks/status/1516791091772727309}}
 - AI ethics, or how to convert AI into a no-code Byzantine discussion
-	- https://twitter.com/xkcdtitletext/status/1539120505042747393
-	- https://twitter.com/trylks/status/1513832323720093697
-	- https://twitter.com/trylks/status/1513599592817991691
+	- {{tweet https://twitter.com/xkcdtitletext/status/1539120505042747393}}
+	- {{tweet https://twitter.com/trylks/status/1513832323720093697}}
+	- {{tweet https://twitter.com/trylks/status/1513599592817991691}}
 - Choose lazy (Equord...)
-	- https://twitter.com/trylks/status/1546823438005932032
+	- {{tweet https://twitter.com/trylks/status/1546823438005932032}}
 - Lack of situational awareness, and wrong decision making
 	- Infinite thread (if I were to expand on it):
-		- https://twitter.com/trylks/status/1526739208353767429
+		- {{tweet https://twitter.com/trylks/status/1526739208353767429}}
 		- https://threadreaderapp.com/thread/1465786016598482944.html
 	- (which connects with everything, honestly, but to name one thing: kakonomy)
 - Explore vs exploit
-	- https://twitter.com/trylks/status/1544079804714127361
+	- {{tweet https://twitter.com/trylks/status/1544079804714127361}}
 - Relativism
 	- Everything, nothing, anything, who knows what... is valuable
-		- https://twitter.com/trylks/status/1544025114865451012
+		- {{tweet https://twitter.com/trylks/status/1544025114865451012}}
 - How many essays could AI generate from the tweets in this page? ([[points to expand on]])
-	- https://twitter.com/fchollet/status/1531440504876826624
+	- {{tweet https://twitter.com/fchollet/status/1531440504876826624}}
 	- What would be the sensibleness, specificity, _interestingness_, and factuality?
 	- Really looking forward to be wrong on this one:
-		- https://twitter.com/trylks/status/1540237244740550657
+		- {{tweet https://twitter.com/trylks/status/1540237244740550657}}
 - Wealth:
-	- https://twitter.com/trylks/status/1537683465105199105
+	- {{tweet https://twitter.com/trylks/status/1537683465105199105}}
 - Low cost
 	- Thread
-		- https://twitter.com/trylks/status/1101890737476636673
+		- {{tweet https://twitter.com/trylks/status/1101890737476636673}}
 - Dilemmas (incl. explore-exploit)
-	- https://twitter.com/trylks/status/1521436135242846209
+	- {{tweet https://twitter.com/trylks/status/1521436135242846209}}
 - HR
-	- https://twitter.com/trylks/status/1520141694670417922
+	- {{tweet https://twitter.com/trylks/status/1520141694670417922}}
 - Study and practice
-	- https://twitter.com/trylks/status/1518340515338588162
+	- {{tweet https://twitter.com/trylks/status/1518340515338588162}}
 - Anti-work?
-	- https://twitter.com/trylks/status/1507299887385305102
+	- {{tweet https://twitter.com/trylks/status/1507299887385305102}}
+- Latest:
+  - {{tweet https://twitter.com/trylks/status/1559671832395280384}}
+  - {{tweet https://twitter.com/trylks/status/1559558421489356800}}
