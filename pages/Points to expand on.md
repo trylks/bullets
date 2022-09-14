@@ -10,6 +10,7 @@
 - Lemon dynamic
 	- {{tweet https://twitter.com/wardleymaps/status/1546916607783575556}}
 - Long trends seem to be "fake", they are not necessarily fake
+  collapsed:: true
 	- When the Dark Ages were getting darker, they were really getting darker
 	- Consider Illustration and Reinassance just the same
 	- {{tweet https://twitter.com/paulisci/status/1549527748950892544}}
@@ -246,5 +247,5 @@
 - Anti-work?
 	- {{tweet https://twitter.com/trylks/status/1507299887385305102}}
 - Latest:
-  - {{tweet https://twitter.com/trylks/status/1559671832395280384}}
-  - {{tweet https://twitter.com/trylks/status/1559558421489356800}}
+	- {{tweet https://twitter.com/trylks/status/1559671832395280384}}
+	- {{tweet https://twitter.com/trylks/status/1559558421489356800}}

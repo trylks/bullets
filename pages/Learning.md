@@ -1,0 +1,3 @@
+- [Sigmoid: How and what to learn](https://sigmoid.substack.com/p/how-and-what-to-learn)
+- [Farnam Street: The Feynman Learning Technique](https://fs.blog/feynman-learning-technique/)
+-
